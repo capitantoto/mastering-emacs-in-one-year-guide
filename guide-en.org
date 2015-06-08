@@ -97,7 +97,7 @@ Most newbies need a notes taking tool. So [[http://orgmode.org/][Org-mode]] is t
 
 If you don't start by solving real world problem you will lose interest soon. Many people started the journey by learning Lisp. They gave up in the midway.
 *** Set the priorities
-Focus on your most critical issue only. Ingore other issues temporarily. Sometimes compromise is a better strategy.
+Focus on your most critical issue only. Ignore other issues temporarily. Sometimes compromise is a better strategy.
 
 For example, I always use Emacs in terminal because at the beginning my most urgent problem is to edit the file on the remote server.
 
